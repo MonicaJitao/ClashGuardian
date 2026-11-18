@@ -1,0 +1,1 @@
+namespace ClashGuardian { internal static class ProbeWorkerMain { public static int Main() { return ProbeWorker.Run(); } } }
